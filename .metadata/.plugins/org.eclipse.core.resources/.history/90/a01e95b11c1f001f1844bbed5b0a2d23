@@ -1,0 +1,14 @@
+package gerenciamentoFuncionarioGPT_project;
+
+public class Gerente extends Funcionario {
+    private String departamento;
+
+    public Gerente(String nome, int idade, double salario, String departamento) {
+        super(nome, idade, salario); // Chama o construtor da superclasse Funcionario
+        this.departamento = departamento;
+    }
+
+    public String getDepartamento() {
+        return departamento;
+    }
+}

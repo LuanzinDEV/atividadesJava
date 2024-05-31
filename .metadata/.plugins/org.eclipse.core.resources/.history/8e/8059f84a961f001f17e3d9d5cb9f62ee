@@ -1,0 +1,11 @@
+package main;
+
+import java.util.ArrayList;
+
+public class SomaNumeros {
+	ArrayList<Integer> numerosList;
+	
+	public SomaNumeros() {
+		this.numerosList = new ArrayList<>();
+	}
+}

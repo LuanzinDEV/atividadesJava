@@ -1,0 +1,14 @@
+package gerenciamentoFuncionarioGPT_project;
+
+public class Programador {
+    private String linguagem;
+
+	public Programador(String nome, int idade, double salario, String linguagem) {
+        super();
+        this.linguagem = linguagem;
+    }
+
+    public String getlinguagem() {
+        return linguagem;
+    }
+}

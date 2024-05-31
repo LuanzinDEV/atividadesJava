@@ -1,0 +1,14 @@
+package gerenciamentoFuncionarioGPT_project;
+
+public class Funcionario {
+	private String nome;
+	private int idade;
+	private double salario;
+	
+	public void Funcionario(String nome, int idade, double salario) {
+		this.nome = nome;
+		this.idade = idade;
+		this.salario = salario;
+	}
+	
+}

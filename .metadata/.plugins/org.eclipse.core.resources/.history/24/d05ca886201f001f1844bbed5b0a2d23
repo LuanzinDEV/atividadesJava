@@ -1,0 +1,12 @@
+package gerenciamentoFuncionarioGPT_project;
+
+public class Main {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Gerente gerente = new Gerente("Emersin", 100, 100, "T.I");
+
+		System.out.println("O bonus do gerente é:  " + gerente.calcularBonus());
+	}
+
+}

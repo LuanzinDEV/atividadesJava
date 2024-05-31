@@ -1,0 +1,20 @@
+package main;
+
+import java.util.ArrayList;
+import java.util.List;
+
+public class CarrinhoDeCompras {
+	private List<Item> comprasList;
+	
+	public CarrinhoDeCompras() {
+		this.comprasList =  new ArrayList<>();
+	}
+	
+	public void adicionarItem(String nome, double preco, int quantidade) {
+		comprasList.add(new Item(nome, quantidade, preco));
+	}
+	
+	public void removerItem(String nome) {
+		List<Item> itensParaRemover = new ArrayList<>();
+	}
+}
