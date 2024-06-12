@@ -5,7 +5,9 @@ INDEX VERSION 1.134+C:\Users\luant\Desktop\atividadesFixarConhecimento\.metadata
 1865797976.index
 1534336801.index
 2472534560.index
+3085167578.index
 2512172325.index
 3334993069.index
 1660437818.index
 1889609165.index
+3411287539.index
