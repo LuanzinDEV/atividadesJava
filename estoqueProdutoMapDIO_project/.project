@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>DicionarioMapDIO_project</name>
+	<name>estoqueProdutoMapDIO_project</name>
 	<comment></comment>
 	<projects>
 	</projects>
@@ -16,7 +16,7 @@
 	</natures>
 	<filteredResources>
 		<filter>
-			<id>1718300746421</id>
+			<id>1718303537794</id>
 			<name></name>
 			<type>30</type>
 			<matcher>
